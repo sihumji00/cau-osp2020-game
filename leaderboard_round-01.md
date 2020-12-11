@@ -1,75 +1,74 @@
 # Leaderboard
-최종 업데이트: 2020년 12월 11일 16시 09분
+최종 업데이트: 2020년 12월 11일 18시 01분
 
 
 
 
 | 참가자 | 순위 | 경기수 | 승 | 무 | 패 | 승점 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 👑@chxhyxn | 1 | 66 | 66 | 0 | 0 | 198 |
-| @L-HK | 2 | 66 | 64 | 1 | 1 | 193 |
-| HUNGRY@sseong-mi | 3 | 66 | 63 | 1 | 2 | 190 |
-| 💸@NepleDev | 4 | 66 | 63 | 0 | 3 | 189 |
-| EZ@CDoubleH | 5 | 66 | 61 | 1 | 4 | 184 |
-| newbie@gh-BumsooKim | 6 | 66 | 59 | 1 | 6 | 178 |
-| 아 햄스터 너무 귀엽다@rakbin007 | 7 | 66 | 57 | 0 | 9 | 171 |
-| DWG@apple2001-std | 8 | 66 | 56 | 0 | 10 | 168 |
-| Spurs@hansol000808 | 9 | 66 | 53 | 2 | 11 | 161 |
-| JongGang@michael01924 | 10 | 66 | 52 | 0 | 14 | 156 |
-| CheckMate@imyoumin | 11 | 66 | 51 | 0 | 15 | 153 |
-| 최진우@jinupotato | 12 | 66 | 50 | 0 | 16 | 150 |
-| Mulloc@n2ceo778 | 13 | 66 | 49 | 1 | 16 | 148 |
-| SUPERULTRACAPSSHONGZZANG@dudcodi | 14 | 66 | 49 | 0 | 17 | 147 |
-| NOTEZ@nsssslllp | 15 | 66 | 48 | 1 | 17 | 145 |
-| Roster@StackOut-K1m | 16 | 66 | 47 | 1 | 18 | 142 |
-| junghu@songjunghu | 17 | 66 | 46 | 1 | 19 | 139 |
-| EZ_PZ@TheAyzr | 18 | 66 | 45 | 2 | 19 | 137 |
-| 아시원해@kimsiwon6827 | 19 | 66 | 44 | 2 | 20 | 134 |
-| KakaoBears@MaSeongHwan | 20 | 66 | 43 | 4 | 19 | 133 |
-| Naega_Jeil_Jalnaga@va0037 | 21 | 66 | 43 | 2 | 21 | 131 |
-| ChaBB@suewcho | 22 | 66 | 43 | 1 | 22 | 130 |
-| hunsu@songse13 | 23 | 66 | 43 | 0 | 23 | 129 |
-| coronaxxx@pjmkjjpk | 24 | 66 | 43 | 0 | 23 | 129 |
-| Cat@RubADuckDuck | 25 | 66 | 41 | 0 | 25 | 123 |
-| 종강종강돌을던지@Wisdom-Kim | 26 | 66 | 40 | 0 | 26 | 120 |
-| saenaegi20@leeyewon20 | 27 | 66 | 38 | 4 | 24 | 118 |
-| LittleLyrical@ArfiTech | 28 | 66 | 38 | 1 | 27 | 115 |
-| tresed@dnalsitresed | 29 | 66 | 35 | 9 | 22 | 114 |
-| HSJTEAM@hsj1128 | 30 | 66 | 35 | 2 | 29 | 107 |
-| Vvs@artech2w | 31 | 66 | 33 | 3 | 30 | 102 |
-| ddubiddubap@wkdgnl123 | 32 | 66 | 30 | 5 | 31 | 95 |
-| 도곡동 솜주먹@smjeon2410 | 33 | 66 | 31 | 1 | 34 | 94 |
-| MyTeam@yejik1002 | 34 | 66 | 27 | 7 | 32 | 88 |
-| Adventurer@Imhanbin123 | 35 | 66 | 27 | 6 | 33 | 87 |
-| WinWin@ychaaaan | 36 | 66 | 27 | 6 | 33 | 87 |
-| Hangeul@dazzsoj | 37 | 66 | 28 | 2 | 36 | 86 |
-| ImBABO@alqmzhh92 | 38 | 66 | 25 | 10 | 31 | 85 |
-| 💘JUDY💘@junsoo08 | 39 | 66 | 27 | 3 | 36 | 84 |
-| Yabeunosem@minju8843 | 40 | 66 | 25 | 5 | 36 | 80 |
-| Chess@rex0053 | 41 | 66 | 23 | 8 | 35 | 77 |
-| SpongeBob@sunjooahn | 42 | 66 | 24 | 5 | 37 | 77 |
-| AGANG@jbr1tr | 43 | 66 | 23 | 8 | 35 | 77 |
-| Numseil@Jeon-Minjeong | 44 | 66 | 24 | 4 | 38 | 76 |
-| ◝(⁰▿⁰)◜@sara-k1m | 45 | 66 | 19 | 18 | 29 | 75 |
-| peanut@kahyeon17 | 46 | 66 | 20 | 7 | 39 | 67 |
-| True_Damage@maritajee | 47 | 66 | 21 | 4 | 41 | 67 |
-| KHH@kimhh2880 | 48 | 66 | 18 | 9 | 39 | 63 |
-| Stop@lkm778u | 49 | 66 | 17 | 10 | 39 | 61 |
-| BBIBBI@Eunyoung1223 | 50 | 66 | 18 | 2 | 46 | 56 |
-| HICPT@seanlee5808 | 51 | 66 | 16 | 2 | 48 | 50 |
-| PuangTeam@Namkyunghun | 52 | 66 | 15 | 0 | 51 | 45 |
-| jmtggm@dlaJinsook6 | 53 | 66 | 13 | 5 | 48 | 44 |
-| 404 Not found@JIMINOFF | 54 | 66 | 14 | 2 | 50 | 44 |
-| NaDa@yjh9929 | 55 | 66 | 11 | 6 | 49 | 39 |
-| dbsepf@skdbs | 56 | 66 | 11 | 5 | 50 | 38 |
-| COINCIDENCE@tjgus6745 | 57 | 66 | 11 | 5 | 50 | 38 |
-| New@linad27 | 58 | 66 | 10 | 7 | 49 | 37 |
-| Asgardian@ParkJh38 | 59 | 66 | 11 | 2 | 53 | 35 |
-| W.O.@ksr1726 | 60 | 66 | 8 | 4 | 54 | 28 |
-| 😎@dwgoon | 61 | 66 | 7 | 1 | 58 | 22 |
-| MyTeam@pooang2020 | 62 | 66 | 4 | 4 | 58 | 16 |
-| Haha_Hoho@dasol0605 | 63 | 66 | 2 | 7 | 57 | 13 |
-| SMILE@jigajiga | 64 | 66 | 2 | 7 | 57 | 13 |
-| Prism@eunyoungyi | 65 | 66 | 2 | 7 | 57 | 13 |
-| MyTeam@bigoriginlee | 66 | 66 | 2 | 7 | 57 | 13 |
-| aaaaa@mjseo0515 | 67 | 66 | 1 | 7 | 58 | 10 |
+| 👑@chxhyxn | 1 | 65 | 65 | 0 | 0 | 195 |
+| 💸@NepleDev | 2 | 65 | 64 | 0 | 1 | 192 |
+| @L-HK | 3 | 65 | 62 | 0 | 3 | 186 |
+| HUNGRY@sseong-mi | 4 | 65 | 61 | 2 | 2 | 185 |
+| newbie@gh-BumsooKim | 5 | 65 | 60 | 0 | 5 | 180 |
+| ¿?¿?¿?¿?¿@rakbin007 | 6 | 65 | 57 | 0 | 8 | 171 |
+| DWG@apple2001-std | 7 | 65 | 55 | 0 | 10 | 165 |
+| Spurs@hansol000808 | 8 | 65 | 52 | 2 | 11 | 158 |
+| JongGang@michael01924 | 9 | 65 | 52 | 0 | 13 | 156 |
+| CheckMate@imyoumin | 10 | 65 | 51 | 0 | 14 | 153 |
+| Mulloc@n2ceo778 | 11 | 65 | 49 | 1 | 15 | 148 |
+| Roster@StackOut-K1m | 12 | 65 | 49 | 1 | 15 | 148 |
+| 최진우@jinupotato | 13 | 65 | 49 | 0 | 16 | 147 |
+| NOTEZ@nsssslllp | 14 | 65 | 48 | 2 | 15 | 146 |
+| Naega_Jeil_Jalnaga@va0037 | 15 | 65 | 45 | 1 | 19 | 136 |
+| 아시원해@kimsiwon6827 | 16 | 65 | 44 | 1 | 20 | 133 |
+| junghu@songjunghu | 17 | 65 | 44 | 1 | 20 | 133 |
+| Winter@nayeonii | 18 | 65 | 44 | 1 | 20 | 133 |
+| hunsu@songse13 | 19 | 65 | 43 | 2 | 20 | 131 |
+| EZ_PZ@TheAyzr | 20 | 65 | 43 | 2 | 20 | 131 |
+| SUPERULTRACAPSSHONGZZANG@dudcodi | 21 | 65 | 43 | 1 | 21 | 130 |
+| coronaxxx@pjmkjjpk | 22 | 65 | 43 | 0 | 22 | 129 |
+| saenaegi20@leeyewon20 | 23 | 65 | 41 | 4 | 20 | 127 |
+| KakaoBears@MaSeongHwan | 24 | 65 | 42 | 0 | 23 | 126 |
+| tresed@dnalsitresed | 25 | 65 | 38 | 8 | 19 | 122 |
+| LittleLyrical@ArfiTech | 26 | 65 | 39 | 2 | 24 | 119 |
+| HSJTEAM@hsj1128 | 27 | 65 | 37 | 0 | 28 | 111 |
+| Vvs@artech2w | 28 | 65 | 36 | 1 | 28 | 109 |
+| 도곡동 솜주먹@smjeon2410 | 29 | 65 | 34 | 2 | 29 | 104 |
+| AGANG@jbr1tr | 30 | 65 | 31 | 6 | 28 | 99 |
+| Adventurer@Imhanbin123 | 31 | 65 | 30 | 3 | 32 | 93 |
+| ddubiddubap@wkdgnl123 | 32 | 65 | 27 | 12 | 26 | 93 |
+| WinWin@ychaaaan | 33 | 65 | 28 | 8 | 29 | 92 |
+| ImBABO@alqmzhh92 | 34 | 65 | 28 | 8 | 29 | 92 |
+| Hangeul@dazzsoj | 35 | 65 | 30 | 1 | 34 | 91 |
+| Yabeunosem@minju8843 | 36 | 65 | 28 | 6 | 31 | 90 |
+| Chess@rex0053 | 37 | 65 | 27 | 4 | 34 | 85 |
+| ionia@munyoubin | 38 | 65 | 24 | 9 | 32 | 81 |
+| KHH@kimhh2880 | 39 | 65 | 24 | 8 | 33 | 80 |
+| True_Damage@maritajee | 40 | 65 | 25 | 4 | 36 | 79 |
+| peanut@kahyeon17 | 41 | 65 | 24 | 6 | 35 | 78 |
+| ◝(⁰▿⁰)◜@sara-k1m | 42 | 65 | 20 | 18 | 27 | 78 |
+| Stop@lkm778u | 43 | 65 | 19 | 11 | 35 | 68 |
+| HICPT@seanlee5808 | 44 | 65 | 20 | 3 | 42 | 63 |
+| PuangTeam@Namkyunghun | 45 | 65 | 20 | 1 | 44 | 61 |
+| Cat@RubADuckDuck | 46 | 65 | 19 | 1 | 45 | 58 |
+| BBIBBI@Eunyoung1223 | 47 | 65 | 18 | 3 | 44 | 57 |
+| SH_Team@sihumji00 | 48 | 65 | 17 | 6 | 42 | 57 |
+| 404 Not found@JIMINOFF | 49 | 65 | 18 | 0 | 47 | 54 |
+| Steins_Gate@suhwan01 | 50 | 65 | 14 | 10 | 41 | 52 |
+| aaaaa@mjseo0515 | 51 | 65 | 15 | 5 | 45 | 50 |
+| Asgardian@ParkJh38 | 52 | 65 | 16 | 2 | 47 | 50 |
+| jmtggm@dlaJinsook6 | 53 | 65 | 14 | 6 | 45 | 48 |
+| dbsepf@skdbs | 54 | 65 | 14 | 5 | 46 | 47 |
+| NaDa@yjh9929 | 55 | 65 | 14 | 5 | 46 | 47 |
+| W.O.@ksr1726 | 56 | 65 | 14 | 5 | 46 | 47 |
+| COINCIDENCE@tjgus6745 | 57 | 65 | 14 | 4 | 47 | 46 |
+| New@linad27 | 58 | 65 | 11 | 7 | 47 | 40 |
+| 😎@dwgoon | 59 | 65 | 9 | 3 | 53 | 30 |
+| Haha_Hoho@dasol0605 | 60 | 65 | 6 | 5 | 54 | 23 |
+| inCross@delight28 | 61 | 65 | 5 | 6 | 54 | 21 |
+| SMILE@jigajiga | 62 | 65 | 5 | 5 | 55 | 20 |
+| pooang5935@pooang2020 | 63 | 65 | 4 | 7 | 54 | 19 |
+| MyTeam@bigoriginlee | 64 | 65 | 4 | 7 | 54 | 19 |
+| 💘JUDY💘@junsoo08 | 65 | 65 | 2 | 0 | 63 | 6 |
+| TeamMJ@star3802 | 66 | 65 | 0 | 0 | 65 | 0 |
